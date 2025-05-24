@@ -470,7 +470,7 @@ export const VISION_MODEL_REGEXES = [
   /claude-3/,
   /gemini-1\.5/,
   /gemini-exp/,
-  /gemini-2\.0/,
+  /gemini-2\.[05]/,
   /learnlm/,
   /qwen-vl/,
   /qwen2-vl/,
